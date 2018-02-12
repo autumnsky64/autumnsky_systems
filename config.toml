@@ -3,3 +3,6 @@ languageCode = "ja"
 title = "Autumnsky systems"
 
 theme = "purehugo"
+
+[params]
+  githubName = "akiya64"
