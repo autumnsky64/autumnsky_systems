@@ -1,3 +1,5 @@
 baseURL = "http://autumnsky.systems/"
-languageCode = "en-us"
+languageCode = "ja"
 title = "Autumnsky systems"
+
+theme = "purehugo"
