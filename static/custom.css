@@ -5,3 +5,11 @@
 .nav-item a {
     border-color : #eee;
 }
+
+h2,.brand-tagline,.post-title {
+    color: #436fb4;
+}
+
+h2 {
+    margin:2.5rem 0 1.5rem;
+}
