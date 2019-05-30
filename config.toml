@@ -1,4 +1,4 @@
-baseURL = "http://autumnsky.systems"
+baseURL = "https://autumnsky.systems"
 languageCode = "ja"
 title = "Autumnsky systems"
 
@@ -7,3 +7,4 @@ theme = "purehugo"
 [params]
   githubName = "akiya64"
   description = "As clear code as autumn sky."
+  hideShareOptions = true
