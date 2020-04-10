@@ -11,5 +11,13 @@ h2,.brand-tagline,.post-title {
 }
 
 h2 {
-    margin:2.5rem 0 1.5rem;
+    margin:2rem 0 1rem;
+}
+
+.post-description {
+    line-height: 1.5em;
+}
+
+li + li {
+    margin-top: 0.25rem;
 }

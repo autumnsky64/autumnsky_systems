@@ -6,9 +6,30 @@
     <description>Recent content on Autumnsky systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://autumnsky.systems/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://autumnsky.systems/about/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://autumnsky.systems/about/</guid>
+      <description>胸永晃考（ムネナガ アキナリ）と申します。
+兵庫県三木市在住のフリーランスです。
+分野 WordPress  テーマ作成 プラグイン作成 WP-CLI活用 実行環境構築（Ubuntu/CentOS/Docker）  Vue.js  フロントエンドのインタラクション作成  Androidアプリ  Java / Kotlinによるネイティブアプリ Realm DB  実績  Wocker コントリビュータ
+Docker ベース WordPress実行環境 LindenFree 自社アプリ
+睡眠・服薬記録 Androidアプリ
+ COVID-19 Hyogo コントリビュータ
+兵庫県 COVID-19 ビジュアライゼーションサイト ポートフォリオサイト M/A 2012年制作
+WEBデザイン、DTPもできますがあまり得意ではありません。  資格 IPA 基本情報処理技術者
+社会調査士
+司書
+連絡先 autumnsky64@gmail.com
+https://github.com/akiya64</description>
+    </item>
     
   </channel>
 </rss>
