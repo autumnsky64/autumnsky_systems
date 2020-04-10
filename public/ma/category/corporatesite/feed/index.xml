@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Corporate Site &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<atom:link href="https://autumnsky.systems/ma/category/corporatesite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://autumnsky.systems/ma/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 May 2019 02:52:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+
+<image>
+	<url>https://autumnsky.systems/ma/wp-content/uploads/2016/12/cropped-ma_header2-32x32.png</url>
+	<title>Corporate Site &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<link>https://autumnsky.systems/ma/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>企業サイト作例 「ホムラ精密機械」</title>
+		<link>https://autumnsky.systems/ma/company-site-homura/</link>
+		<comments>https://autumnsky.systems/ma/company-site-homura/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 05:25:02 +0000</pubDate>
+		<dc:creator><![CDATA[a-munenaga]]></dc:creator>
+				<category><![CDATA[Corporate Site]]></category>
+
+		<guid isPermaLink="false">https://autumnsky.systems/ma/?p=37</guid>
+		<description><![CDATA[架空のファンメーカーの企業サイトという設定です。 仕様 HTML5 CSS3 コンセプト メーカー・販売会社へ商品情報を分かりやすく伝えるサイト ターゲットユーザー 電子機器メーカー・組立会社の開発者や仕入担当、経営者　 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://autumnsky.systems/ma/homura/index.html"><img src="https://autumnsky.systems/ma/wp-content/uploads/2015/06/homura.jpg" alt="サイト作例「ホムラ精密機械」" width="660" height="440"/></a></p>
+<p>架空のファンメーカーの企業サイトという設定です。</p>
+<dl>
+<dt>仕様</dt>
+<dd>HTML5 CSS3</dd>
+<dt>コンセプト</dt>
+<dd>メーカー・販売会社へ商品情報を分かりやすく伝えるサイト</dd>
+<dt>ターゲットユーザー</dt>
+<dd>電子機器メーカー・組立会社の開発者や仕入担当、経営者　少数の個人ユーザー</dd>
+<dt>サイトカラー</dt>
+<dd>ブルーグレイ・グレー　機械を表すのグレーと知的な印象を与える青</dd>
+<dt>使用ソフト</dt>
+<dd>DreamWeaver PhotoShop Illustrator</dd>
+</dl>
+]]></content:encoded>
+			<wfw:commentRss>https://autumnsky.systems/ma/company-site-homura/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

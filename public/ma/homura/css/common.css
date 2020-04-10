@@ -1,0 +1,303 @@
+@charset "utf-8";
+/* Copyright (c) 2010, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License: http://developer.yahoo.com/yui/license.html version: 3.2.0 build: 2676 */
+/*add japanese 2010/12 araki */
+/*body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}
+*/
+
+body,div,dl,dt,dd,
+ul,ol,li,h1,h2,h3,h4,h5,h6,
+pre,code,form,fieldset,legend,
+input,textarea,p,blockquote,th,td {
+	margin:0;
+	padding:0;
+}
+
+body{
+	font-size: 13px;
+	font-family: "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif;
+	line-height: 1.4em;
+	}
+
+*html body {
+	font-size:small;
+	}/*ie6 ie7用*/
+
+*html body {
+	font:x-small/1.5em;
+	}/*ie6後方互換モード*/
+
+address,em,strong,th {
+	font-style: normal;
+	font-weight: normal;
+}
+
+select,input,button,textarea{
+	font:99% "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic
+Pro", sans-serif;
+}
+
+pre,code,kbd,samp,tt{
+	font-family:monospace;line-height:100%;
+	}
+
+*pre,*code,*kbd,*samp,*tt{
+	font-size:108%;
+	}
+
+table,table th,table td, {
+	border:none ;
+	border-collapse: collapse;
+}
+
+img {
+	border:0;
+}
+
+ul,ol,li {
+	list-style:none;
+}
+
+/*--------------------------------------------------
+* ピクセル　％
+----------------------------------------------------
+10 77
+11 85
+12 93
+13 100
+14 108
+15 116
+16 123.1
+17 131
+18 138.5
+19 146.5
+20 153.9
+21 161.6
+22 167
+23 174
+24 182
+25 189
+26 197
+*/
+
+
+/* HTML5の新要素をブロック要素化 */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/*ホムラ精密機械サイト共通設定*/
+/*Author Munenaga Akinari******/
+
+/*レイアウト*/
+
+#wrapper {
+	width:900px;
+	margin:0 auto;
+}
+
+/*ヘッダー*/
+
+header {
+	background: url(https://autumnsky.systems/ma/homura/images/header_bg.jpg);
+	height:130px;
+	width:900px;
+	position:relative;
+	margin-bottom: 15px;
+}
+
+header h1 {
+	background: #acf;
+	width: 420px;
+	padding: 3px;
+	font-size:93%;
+	font-weight:normal;
+	margin-bottom:8px;
+}
+
+header form {
+	margin: -3px 0;
+	padding: 0;
+	width:19em;
+	float:left;
+}
+
+header button {
+	background: #ddd;
+	padding: 2px;
+	margin:0 0.2em;
+	border: 1px solid #b5b5cc;/*ベースボーダー色*/
+	line-height:inherit;
+	cursor:pointer;
+}
+
+
+header p{
+	font-size: 123.1%;
+	margin-bottom: 12px;
+	z-index: 3;
+	position: relative;
+}
+
+a.font-switch {
+	background: #ebf0ff;/*ベースBG色*/
+	color: #00a;
+	margin:0 0.3em;
+	padding: 3px;
+	border: 1px solid #b5b5cc;/*ベースボーダー色*/
+	text-decoration: none;
+}
+
+header nav {
+	width:700px;
+	position:absolute;
+	top:90px;
+	left:40px;
+}
+
+header nav li {
+	width:130px;
+	height:40px;
+	float:left;
+}
+
+header #home_btn {
+	width:50px;
+	height:40px;
+}
+
+header p#logo {
+	position:absolute;
+	top:0px;
+	right:0px;
+	width: 460px;
+	z-index: 2; 
+	}
+	
+#type {
+	position: absolute;
+	top: 0px;
+	right: 150px;
+}
+
+#mark {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+/*フッター*/
+footer {
+	width: 860px;
+	height: 7.4em;
+	clear: both;
+	padding: 1em 20px;
+	margin-top: 5px;
+	background: #8ad; /* Old browsers */
+	background: -moz-linear-gradient(top,  #d0e1ed 0%, #81ade2 44%, #5984ba 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d0e1ed), color-stop(44%,#81ade2), color-stop(100%,#5984ba)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #d0e1ed 0%,#81ade2 44%,#5984ba 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #d0e1ed 0%,#81ade2 44%,#5984ba 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #d0e1ed 0%,#81ade2 44%,#5984ba 100%); /* IE10+ */
+	background: linear-gradient(top,  #d0e1ed 0%,#81ade2 44%,#5984ba 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e1ed', endColorstr='#5984ba',GradientType=0 ); /* IE6-9 */
+}
+
+footer dl {
+	width: 104px;
+	height: 7em;
+	float: left;
+	margin: 0;
+	padding: 0.2em 5px 0.2em 10px;
+	border-left: solid 1px #fff;
+}
+
+footer dt {
+	font-size: 108%;
+	margin-bottom: 0.3em;
+}
+
+footer dd {
+	padding-left: 1.2em;
+}
+
+footer a {
+	color: #009;
+	text-decoration: none;
+}
+
+footer a:hover {
+	background-color:#fff;
+	color: #004;
+	text-decoration: underline;
+}
+footer #company_info{
+	width: 259px;
+	height: 7em;
+	float: left;
+	margin: 0;
+	padding: 0.2em 0;
+	border-left: solid 1px #fff;
+	text-align: right;
+}
+
+/*全ページ共通スタイル*/
+#contents {
+	margin-bottom: 20px;
+}
+
+#contents article h1  {
+	font-size: 138.1%;
+	font-weight: normal;
+	margin-bottom: 0.7em;
+	padding:0.2em 0 0;
+	letter-spacing: 1px;
+	border-bottom: solid 1px #8ad;
+	}
+
+#contents article h1::before {
+	content: url("https://autumnsky.systems/ma/homura/images/h1_mark.png");
+	vertical-align: -6px;
+	margin: 0 7px 0 0;
+	padding:0;
+}
+
+table {
+	border: none;
+	border-collapse: collapse;
+}
+
+#go_top {
+	font-size:108%;
+	text-align: right;
+}
+
+/*フロート設定*/
+.float_left {
+	float: left;
+	margin-right: 1.5em;
+	margin-bottom: 1em;
+}
+
+.float_left:last-child {
+	margin-right: 0;
+}
+
+.float_right {
+	float: right;
+	margin-left: 1.5em;
+	margin-bottom: 1em;
+}
+
+
+/*クリアーフィックス　Colisより*/
+/* For modern browsers */
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+ 
+.cf:after {
+    clear:both;
+}

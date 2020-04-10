@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+article {
+	margin-bottom: 2em;
+	clear: both;
+}
+
+table{
+	margin-left: 1.5em ;
+}
+
+th {
+	background: #ebf0ff;
+	border: solid 1px #b5b5cc;
+	padding:0.5em;
+}
+
+td {
+	background: #fff;
+	border: solid 1px #b5b5cc;
+	padding:0.5em; 
+}
+
+#map {
+	height: 350px;
+	width: 350px;
+}
+
+.float_left {
+	margin-left:2em;
+}

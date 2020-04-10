@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shop Site &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<atom:link href="https://autumnsky.systems/ma/category/shopsite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://autumnsky.systems/ma/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 May 2019 02:52:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+
+<image>
+	<url>https://autumnsky.systems/ma/wp-content/uploads/2016/12/cropped-ma_header2-32x32.png</url>
+	<title>Shop Site &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<link>https://autumnsky.systems/ma/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>「カナメ書店」スマートフォン向けサイト</title>
+		<link>https://autumnsky.systems/ma/kanamebooks-sp/</link>
+		<comments>https://autumnsky.systems/ma/kanamebooks-sp/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 05:55:08 +0000</pubDate>
+		<dc:creator><![CDATA[a-munenaga]]></dc:creator>
+				<category><![CDATA[Mobile Site]]></category>
+		<category><![CDATA[Shop Site]]></category>
+
+		<guid isPermaLink="false">https://autumnsky.systems/ma/?p=60</guid>
+		<description><![CDATA[学校帰りや会社帰りに見てもらい「ちょっと寄ってみようかな」と思ってもらえるように作りました。 仕様 XHTML1.0 CSS3 jQueryMobile　横幅480px 使用ソフト DreamWeaver PhotoSh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://autumnsky.systems/ma/kanamebooks-sp/mobile.html"><img class="alignleft wp-image-61" src="https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src.jpg" alt="kaname_mobile_src" width="317" height="819" srcset="https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src.jpg 480w, https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src-116x300.jpg 116w, https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src-396x1024.jpg 396w" sizes="(max-width: 317px) 100vw, 317px" /></a></p>
+<p>学校帰りや会社帰りに見てもらい「ちょっと寄ってみようかな」と思ってもらえるように作りました。</p>
+<dl>
+<dt>仕様</dt>
+<dd>XHTML1.0 CSS3 jQueryMobile　横幅480px</dd>
+<dt>使用ソフト</dt>
+<dd>DreamWeaver PhotoShop Illustrator</dd>
+</dl>
+]]></content:encoded>
+			<wfw:commentRss>https://autumnsky.systems/ma/kanamebooks-sp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>ショップサイト作例「カナメ書店」</title>
+		<link>https://autumnsky.systems/ma/kaname-books-wp/</link>
+		<comments>https://autumnsky.systems/ma/kaname-books-wp/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 05:25:53 +0000</pubDate>
+		<dc:creator><![CDATA[a-munenaga]]></dc:creator>
+				<category><![CDATA[Shop Site]]></category>
+
+		<guid isPermaLink="false">https://autumnsky.systems/ma/?p=43</guid>
+		<description><![CDATA[地域の書店がWebサイトをつくるとしたら？ 本の入荷は毎日あるから、それを写真で掲載していけば足を運んでくれるのではないか、と考えてWordPressでサイトを作り、日々の更新は店舗側で簡単に行えるようにしました。 仕様 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_7" style="width: 670px" class="wp-caption alignnone"><a href="https://autumnsky.systems/ma/books-kaname/"><img class="size-full wp-image-7" src="https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_bs.jpg" alt="サイト作例WordPress" width="660" height="440" srcset="https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_bs.jpg 660w, https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_bs-300x200.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" /></a><p class="wp-caption-text">WordPress作例「カナメ書店」</p></div>
+<p>地域の書店がWebサイトをつくるとしたら？</p>
+<p>本の入荷は毎日あるから、それを写真で掲載していけば足を運んでくれるのではないか、と考えてWordPressでサイトを作り、日々の更新は店舗側で簡単に行えるようにしました。</p>
+<dl>
+<dt>仕様</dt>
+<dd>WordPress 3.1 XHTML1.0 CSS3</dd>
+<dt>コンセプト</dt>
+<dd>本棚を眺めている雰囲気を出して、お店に行ってみようと言う気になるサイト新着・再入荷は平日毎日あるので、それをいち早くお知らせして、店に今どんな本があるか分かるサイト</p>
+</dd>
+<dt>ターゲットユーザー</dt>
+<dd>店舗の商圏内の高校生～30代前半男女</dd>
+<dt>サイトカラー</dt>
+<dd>グリーン　ゆっくり本を眺められる落ち着いた雰囲気</dd>
+<dt>使用プラグイン</dt>
+<dd>Twitter プラグインを用いてWordPressへ新着を表示</dd>
+<dd>携帯メールでの投稿プラグインを入れて、携帯で撮ってメール送信するだけで更新が可能</dd>
+<dt>使用ソフト</dt>
+<dd>DreamWeaver PhotoShop Illustrator</dd>
+<dt>WordPress テーマファイル</dt>
+<dd><a href="http://munenaga.skr.jp/wp-content/uploads/2012/02/kaname.zip">kaname.zip</a></dd>
+</dl>
+]]></content:encoded>
+			<wfw:commentRss>https://autumnsky.systems/ma/kaname-books-wp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

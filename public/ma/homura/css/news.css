@@ -1,0 +1,100 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+/*新着サイドバー*/
+#sidemenu {
+	float: left;
+	width: 160px;
+}
+
+#sidemenu li{
+	width: 118px;
+	height: 32px;
+	background: #8ad;
+	margin-bottom: 2px;
+	border:solid 1px #fff;
+}
+
+#sidemenu li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 123.1%;
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 8px;
+}
+
+#sidemenu li:hover {
+	background-color:#fff;
+	border:solid 1px #8ad;
+}
+
+#sidemenu li a:hover {
+	color: #479;
+}
+
+/*新着本文スタイル*/
+#news {
+	float:left;
+	width: 740px;
+	margin-bottom: 1em;
+}
+
+#news article {
+	width: 55em;
+	margin-bottom: 1.5em;
+	border-bottom:1px dashed #8ad;
+}
+
+#news hgroup h1 {
+	margin-bottom: 0.1em;
+}
+
+#news hgroup h2 {
+	font-size: 100%;
+	margin:0 1em 0.5em 1.5em;
+}
+
+#news article p {
+	width: 45em;
+	margin-left: 1.5em;
+	margin-bottom: 0.6em;
+}
+
+#news article ul {
+	margin:0.5em 0em 0.5em 2em;
+}
+table {
+	margin: 0em 0em 1em 1.5em;
+}
+
+th {
+	background: #c0d0ff;
+	border: solid 1px #b5b5cc;
+	padding:0.5em;
+	text-align: center;
+	vertical-align:middle;
+}
+
+td {
+	background: #fff;
+	border: solid 1px #b5b5cc;
+	padding:0.5em; 
+
+}
+
+td.spec_head {
+	background: #ebf0ff;
+	text-align: center;
+}
+
+#news article dl {
+	margin:0.5em 2em;
+}
+
+#news article dd {
+	margin-left:1em;
+}

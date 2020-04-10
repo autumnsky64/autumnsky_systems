@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>About &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<atom:link href="https://autumnsky.systems/ma/category/about/feed/" rel="self" type="application/rss+xml" />
+	<link>https://autumnsky.systems/ma/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 May 2019 02:52:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+
+<image>
+	<url>https://autumnsky.systems/ma/wp-content/uploads/2016/12/cropped-ma_header2-32x32.png</url>
+	<title>About &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<link>https://autumnsky.systems/ma/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>About</title>
+		<link>https://autumnsky.systems/ma/about/</link>
+		<comments>https://autumnsky.systems/ma/about/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 05:01:36 +0000</pubDate>
+		<dc:creator><![CDATA[a-munenaga]]></dc:creator>
+				<category><![CDATA[About]]></category>
+
+		<guid isPermaLink="false">https://autumnsky.systems/ma/?p=15</guid>
+		<description><![CDATA[このサイトについて “M/A” は胸永晃考（ムネナガアキナリ）個人のポートフォリオ・サイトです。 WebサイトやAdobeCSシリーズで作成した作品を掲載しています。 作品内の企業や店名は架空のものです。 自己紹介 胸永 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>このサイトについて</h2>
+<p>“M/A” は胸永晃考（ムネナガアキナリ）個人のポートフォリオ・サイトです。<br />
+WebサイトやAdobeCSシリーズで作成した作品を掲載しています。<br />
+作品内の企業や店名は架空のものです。</p>
+<h2>自己紹介</h2>
+<p>胸永晃考（ムネナガアキナリ）　1981年生　男性<br />
+メールアドレス：<a href="mailto:amunenaga@gmail.com">amunenaga@gmail.com</a><br />
+&gt;&gt; <a href="https://plus.google.com/106265512617770549473/posts">Google+</a><br />
+&gt;&gt; <a href="https://ja-jp.facebook.com/amunenaga">Facebook</a><br />
+&gt;&gt; <a href="https://www.flickr.com/photos/104163919@N03/">Flickr</a><br />
+&gt;&gt; <a href="http://b.hatena.ne.jp/munenaga/bookmark"> はてなブックマーク</a></p>
+<h2>使用可能ソフト</h2>
+<p>Adobe Photoshop CS5<br />
+Adobe Illustrator CS5<br />
+Adobe DreamWeaver CS5.5<br />
+Adobe Flash Professional CS5.5<br />
+MicroSoft Office Word / Excel,Excel VBA / Access<br />
+Oracle Netbeans/java<br />
+WordPress</p>
+<h2>資格</h2>
+<p>基本情報処理技術者<br />
+司書</p>
+<p>2012年2月現在</p>
+]]></content:encoded>
+			<wfw:commentRss>https://autumnsky.systems/ma/about/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

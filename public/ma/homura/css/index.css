@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*メイン カラム本体・カラム内要素固有スタイル*/
+.main_column {
+	float: left;
+	width: 280px;
+}
+
+#contents article h1 {
+	border: none;
+	font-weight: bold;
+	margin-bottom: 0.1em;
+}
+
+#topics_news ul {
+	margin-bottom: 20px;
+	padding:10px 1em 10px 2.5em;
+	background-color: #ebf0ff;
+	border: 2px solid #b5b5cc;
+	-o-border-radius: 0 10px 10px 10px;
+	-ms-border-radius: 0 10px 10px 10px;
+	-moz-border-radius: 0 10px 10px 10px;
+	-webkit-border-radius: 0 10px 10px 10px;
+	border-radius: 0 10px 10px 10px;
+	}
+	
+#topics_news li {
+	list-style-image: url(https://autumnsky.systems/ma/homura/images/list_marker.png);
+	margin-bottom: 0.7em;
+}
+
+#topics_news dl {
+	padding : 10px 10px 0px;
+	background-color: #ebf0ff;
+	border: 2px solid #b5b5cc;
+	border-bottom: none;
+	margin-bottom: 0;
+	-o-border-radius: 0 10px 0 0;
+	-ms-border-radius: 0 10px 0 0;
+	-moz-border-radius: 0 10px 0 0;
+	-webkit-border-radius: 0 10px 0 0;
+	border-radius: 0 10px 0 0;
+
+}
+
+#topics_news dd {
+	padding-bottom: 1em;
+}
+
+#more_news {
+	padding: 0.5em 1em;
+	margin: 0 0 20px;
+	text-align: right;
+	background-color: #ebf0ff;
+	border-top: dotted 1px #b5b5cc;
+	border-left: solid 2px #b5b5cc;
+	border-bottom: solid 2px #b5b5cc;
+	border-right: solid 2px #b5b5cc;
+	-o-border-radius: 0 0 10px 10px;
+	-ms-border-radius: 0 0 10px 10px;
+	-moz-border-radius: 0 0 10px 10px;
+	-webkit-border-radius: 0 0 10px 10px;
+	border-radius: 0 0 10px 10px;
+}
+
+
+#feature_products {
+	width: 248px;
+	height: 359px;
+	padding: 10px 15px;
+	border: 1px solid #000;
+	margin: 0 0 20px 30px;
+}
+#feature_products figcaption {
+	margin-bottom: 1em;
+}
+
+#lineup_image {
+	height: 380px;
+	margin: 0 0 20px 30px;
+	padding: 0px;
+}
+#feature_products p {
+	margin-bottom: 0.5em;
+}

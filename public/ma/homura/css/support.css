@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+article {
+	margin-bottom: 20px;
+}
+
+article ol li {
+	list-style: decimal;
+}
+
+article ul li {
+	list-style: circle
+}
+
+
+article li {
+	margin-left: 2em;
+	margin-bottom: 0.5em;
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mobile Site &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<atom:link href="https://autumnsky.systems/ma/category/mobilesite/feed/" rel="self" type="application/rss+xml" />
+	<link>https://autumnsky.systems/ma/</link>
+	<description></description>
+	<lastBuildDate>Thu, 30 May 2019 02:52:31 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.13</generator>
+
+<image>
+	<url>https://autumnsky.systems/ma/wp-content/uploads/2016/12/cropped-ma_header2-32x32.png</url>
+	<title>Mobile Site &#8211; M/A 胸永 晃考  ポートフォリオサイト</title>
+	<link>https://autumnsky.systems/ma/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>「カナメ書店」スマートフォン向けサイト</title>
+		<link>https://autumnsky.systems/ma/kanamebooks-sp/</link>
+		<comments>https://autumnsky.systems/ma/kanamebooks-sp/#respond</comments>
+		<pubDate>Fri, 10 Feb 2012 05:55:08 +0000</pubDate>
+		<dc:creator><![CDATA[a-munenaga]]></dc:creator>
+				<category><![CDATA[Mobile Site]]></category>
+		<category><![CDATA[Shop Site]]></category>
+
+		<guid isPermaLink="false">https://autumnsky.systems/ma/?p=60</guid>
+		<description><![CDATA[学校帰りや会社帰りに見てもらい「ちょっと寄ってみようかな」と思ってもらえるように作りました。 仕様 XHTML1.0 CSS3 jQueryMobile　横幅480px 使用ソフト DreamWeaver PhotoSh [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://autumnsky.systems/ma/kanamebooks-sp/mobile.html"><img class="alignleft wp-image-61" src="https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src.jpg" alt="kaname_mobile_src" width="317" height="819" srcset="https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src.jpg 480w, https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src-116x300.jpg 116w, https://autumnsky.systems/ma/wp-content/uploads/2015/06/kaname_mobile_src-396x1024.jpg 396w" sizes="(max-width: 317px) 100vw, 317px" /></a></p>
+<p>学校帰りや会社帰りに見てもらい「ちょっと寄ってみようかな」と思ってもらえるように作りました。</p>
+<dl>
+<dt>仕様</dt>
+<dd>XHTML1.0 CSS3 jQueryMobile　横幅480px</dd>
+<dt>使用ソフト</dt>
+<dd>DreamWeaver PhotoShop Illustrator</dd>
+</dl>
+]]></content:encoded>
+			<wfw:commentRss>https://autumnsky.systems/ma/kanamebooks-sp/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
