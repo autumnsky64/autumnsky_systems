@@ -1,0 +1,9 @@
+SetEnvIf REDIRECT_HTTPS (.*) HTTPS=$1
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{ENV:HTTPS} !on
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteCond %{HTTP_HOST} autumn64\.sakura\.ne\.jp
+RewriteRule (.*) https://autumnsky.systems/$1
+</IfModule>
+ 
