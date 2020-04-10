@@ -25,12 +25,12 @@ date = "2019-10-29"
 
 ## 実績
 
-* [Wocker](https://wckr.github.io/) コントリビュータ  
-  Docker ベース WordPress実行環境
-* [LindenFree](https://play.google.com/store/apps/details?id=systems.autumnsky.linden_free) 自社アプリ  
+* [Wocker](https://wckr.github.io/)   
+  Docker ベース WordPress実行環境 コントリビュータ
+* [LindenFree](https://play.google.com/store/apps/details?id=systems.autumnsky.linden_free)   
   睡眠・服薬記録 Androidアプリ  
-* [COVID-19 Hyogo](https://covid-hyogo.now.sh/) コントリビュータ  
-  兵庫県 COVID-19 ビジュアライゼーションサイト
+* [COVID-19 Hyogo](https://covid-hyogo.now.sh/)   
+  兵庫県 COVID-19 ビジュアライゼーションサイト コントリビュータ
 * [ポートフォリオサイト M/A 2012年制作](https://autumnsky.systems/ma/)  
   WEBデザイン、DTPもできますがあまり得意ではありません。
 
