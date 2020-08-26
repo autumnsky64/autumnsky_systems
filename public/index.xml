@@ -6,7 +6,7 @@
     <description>Recent content on Autumnsky systems</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://autumnsky.systems/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +14,14 @@
     <item>
       <title>About</title>
       <link>https://autumnsky.systems/about/</link>
-      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://autumnsky.systems/about/</guid>
       <description>胸永晃考（ムネナガ アキナリ）と申します。
 兵庫県三木市在住のフリーランスです。
 分野 WordPress  テーマ作成 プラグイン作成 WP-CLI活用 実行環境構築（Ubuntu/CentOS/Docker）  Vue.js  フロントエンドのインタラクション作成  Androidアプリ  Java / Kotlinによるネイティブアプリ Realm DB  実績  Wocker
-Docker ベース WordPress実行環境 コントリビュータ LindenFree
+Docker ベース WordPress実行環境 コントリビュータ Wocker
+株式会社 キテレツのコラボレーターとして、WordPressの投稿タイプ設計、テーマテンプレート設計、専用プラグインの作成を行いました。 LindenFree
 睡眠・服薬記録 Androidアプリ
  COVID-19 Hyogo
 兵庫県 COVID-19 ビジュアライゼーションサイト コントリビュータ ポートフォリオサイト M/A 2012年制作

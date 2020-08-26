@@ -1,10 +1,10 @@
 +++
-Title = "About"
-date = "2019-10-29"
+Title = "概要"
+date = "2020-08-26"
 +++
 
-胸永晃考（ムネナガ アキナリ）と申します。  
-兵庫県三木市在住のフリーランスです。  
+胸永晃考（ムネナガ アキナリ）   
+兵庫県三木市 在住
 
 ## 分野
 
@@ -16,7 +16,7 @@ date = "2019-10-29"
 * 実行環境構築（Ubuntu/CentOS/Docker）
 
 ### Vue.js
-* フロントエンドのインタラクション作成
+* フロントエンドのインタラクション作成など
 
 ### Androidアプリ
 
@@ -27,6 +27,8 @@ date = "2019-10-29"
 
 * [Wocker](https://wckr.github.io/)   
   Docker ベース WordPress実行環境 コントリビュータ
+* [桂川レディースクリニック](https://katsuragawa-lc.com/)   
+  [株式会社 キテレツ](https://kiteretz.com/)のコラボレーターとして、WordPressの投稿タイプ設計、テーマテンプレート設計、専用プラグインの作成を行いました。
 * [LindenFree](https://play.google.com/store/apps/details?id=systems.autumnsky.linden_free)   
   睡眠・服薬記録 Androidアプリ  
 * [COVID-19 Hyogo](https://covid-hyogo.now.sh/)   
