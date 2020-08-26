@@ -12,15 +12,15 @@
     
     
     <item>
-      <title>About</title>
+      <title>概要</title>
       <link>https://autumnsky.systems/about/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://autumnsky.systems/about/</guid>
-      <description>胸永晃考（ムネナガ アキナリ）と申します。
-兵庫県三木市在住のフリーランスです。
-分野 WordPress  テーマ作成 プラグイン作成 WP-CLI活用 実行環境構築（Ubuntu/CentOS/Docker）  Vue.js  フロントエンドのインタラクション作成  Androidアプリ  Java / Kotlinによるネイティブアプリ Realm DB  実績  Wocker
-Docker ベース WordPress実行環境 コントリビュータ Wocker
+      <description>胸永晃考（ムネナガ アキナリ）
+兵庫県三木市 在住
+分野 WordPress  テーマ作成 プラグイン作成 WP-CLI活用 実行環境構築（Ubuntu/CentOS/Docker）  Vue.js  フロントエンドのインタラクション作成など  Androidアプリ  Java / Kotlinによるネイティブアプリ Realm DB  実績  Wocker
+Docker ベース WordPress実行環境 コントリビュータ 桂川レディースクリニック
 株式会社 キテレツのコラボレーターとして、WordPressの投稿タイプ設計、テーマテンプレート設計、専用プラグインの作成を行いました。 LindenFree
 睡眠・服薬記録 Androidアプリ
  COVID-19 Hyogo

@@ -18,6 +18,10 @@ h2 {
     line-height: 1.5em;
 }
 
+li {
+    list-style: square;
+}
+
 li + li {
     margin-top: 0.25rem;
 }
